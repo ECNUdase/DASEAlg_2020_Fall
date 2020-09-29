@@ -9,6 +9,7 @@
 
 之后，助教会将大家的提问以及回答整理到对应章节的文件夹中。
 
-提问需尽量详细的表达清楚问题（可参考Issues中给出的提问模板https://github.com/ECNUdase/DASEAlg_2020_Fall/issues/1）
+提问需尽量详细的表达清楚问题
+可参考Issues中给出的提问模板 https://github.com/ECNUdase/DASEAlg_2020_Fall/issues/1
 - 写出该问题的出处，如：ppt/书 第几页
 - 表达你对该问题的疑惑之处
