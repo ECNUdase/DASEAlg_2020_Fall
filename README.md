@@ -12,6 +12,8 @@
 - 提问模板（尽量写清楚问题出处及疑问） https://github.com/ECNUdase/DASEAlg_2020_Fall/issues/1
 - 教材改错模板  https://github.com/ECNUdase/DASEAlg_2020_Fall/issues/4
 
+请在提问和回答后添加自己的名字，方便后期统计
+
 ## 课程平时成绩
 - 随堂作业
 - 提问/回答
